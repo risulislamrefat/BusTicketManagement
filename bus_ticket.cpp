@@ -210,7 +210,8 @@ int	clrscr();
 		cout<<" ******************************************************************************"<<endl;
 		cout<<" ******* ******* ******* ******* ******* ******* ******* ******* *******"<<endl;
 		cout<<"		       * Bus Transportation and Scheduling *"<<endl;
-		//cout<<"			   * SAC Transport Service *"<<endl;
+
+
 		cout<<" ******* ******* ******* ******* ******* ******* ******* ******* *******"<<endl;
 		cout<<" ******************************************************************************"<<endl;
 		cout<<" 1. Install a new bus\n 2. Reservation\n 3. Show all seats available in the bus\n 4. Buses Available.\n 6. Exit";
